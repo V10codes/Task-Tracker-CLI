@@ -30,6 +30,7 @@ A simple command-line interface (CLI) tool to manage tasks. Users can add, updat
 
 Example usage:
 
+```bash
 # Add a new task
 
 task-cli add "Buy groceries"
@@ -52,3 +53,4 @@ task-cli list
 task-cli list done
 task-cli list todo
 task-cli list in-progress
+```
